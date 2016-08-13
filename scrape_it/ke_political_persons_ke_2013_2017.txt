@@ -1,0 +1,348 @@
+{"name": "Samuel Kiprono Chepkonga", "dob": "4th September 1964", "email": "chepkonga@wananchi.com ", "cell": "0722996469", "area": "Ainabkoi", "position": "Member of the National Assembly for", "attendance": "2789"}
+{"name": "Benjamin Kipkirui Langat", "dob": "24th November 1976", "email": "lkbenjami@yahoo.com ", "cell": "0722895939", "area": "Ainamoi", "position": "Member of the National Assembly for", "attendance": "2063"}
+{"name": "Cornelly Serem", "dob": "31st December 1970", "email": "cornel66101@yahoo.com ", "cell": "0720826869", "area": "Aldai", "position": "Member of the National Assembly for", "attendance": "135"}
+{"name": "George Washinton Mallan Omondi", "dob": "14th September 1953", "email": "lvfkaruoth@yahoo.co.uk ", "cell": "0722778509", "area": "Alego Usonga", "position": "Member of the National Assembly for", "attendance": "197"}
+{"name": "Jared Odhiambo Opiyo", "dob": "1st June 1973", "email": "jaredsandy22@yahoo.com ", "cell": "0703336111", "area": "Awendo", "position": "Member of the National Assembly for", "attendance": "212"}
+{"name": "Onesmas Kimani Ngunjiri", "dob": "", "email": "", "cell": "0725371937", "area": "Bahati", "position": "Member of the National Assembly for", "attendance": "61"}
+{"name": "Abdikadir Omar Aden", "dob": "21st October 1972", "email": "abdikadir25@yahoo.com", "cell": "0722281819", "area": "Balambala", "position": "Member of the National Assembly for", "attendance": "17"}
+{"name": "Mohamed Abdi Haji Mohamed", "dob": "", "email": "alabrar42@yahoo.com ", "cell": "0722779942", "area": "Banissa", "position": "Member of the National Assembly for", "attendance": "57"}
+{"name": "Sammy Mwaita", "dob": "1950", "email": "sskmwaita@gmail.com ", "cell": "0722312009", "area": "Baringo Central", "position": "Member of the National Assembly for", "attendance": "263"}
+{"name": "Grace Jemutai Kiptui", "dob": "3rd January 1962", "email": "info@gracekiptui.com", "cell": "", "area": "Baringo", "position": "Member of the National Assembly for", "attendance": "163"}
+{"name": "William Kipkiror", "dob": "25th December 1967", "email": "cheptumo@yahoo.com", "cell": "0711696756", "area": "Baringo North", "position": "Member of the National Assembly for", "attendance": "719"}
+{"name": "Grace Jelagat Kipchoim", "dob": "", "email": "kipchoimg@yahoo.com ", "cell": "0722424131", "area": "Baringo South", "position": "Member of the National Assembly for", "attendance": "93"}
+{"name": "Eric Arap Keter", "dob": "", "email": "", "cell": "0720931824", "area": "Belgut", "position": "Member of the National Assembly for", "attendance": "114"}
+{"name": "Stephen Kengere Manoti", "dob": "", "email": "customgeneral@yahoo.com ", "cell": "0737882230", "area": "Bobasi", "position": "Member of the National Assembly for", "attendance": "66"}
+{"name": "Joel Onyancha", "dob": "1st January 1960", "email": "joel.onyancha@gmail.com ", "cell": "0722248190", "area": "Bomachoge Borabu", "position": "Member of the National Assembly for", "attendance": "82"}
+{"name": "Dr. Simon Ogari", "dob": "31st May 1956", "email": "ogarisn@yahoo.com ", "cell": "0722112531", "area": "Bomachoge Chache", "position": "Member of the National Assembly for", "attendance": "219"}
+{"name": "Ronald Kiprotich Tonui", "dob": "25th August 1971", "email": "ronaldkiprotichtonui@gmail.com ", "cell": "0737040903", "area": "Bomet Central", "position": "Member of the National Assembly for", "attendance": "392"}
+{"name": "Cecilia Chelangat Ngetich", "dob": "", "email": "", "cell": "", "area": "Bomet", "position": "Member of the National Assembly for", "attendance": "118"}
+{"name": "Benard Kipkirui Bett", "dob": "11th May 1981", "email": "bernardbett2010@gmail.com ", "cell": "0723936959", "area": "Bomet East", "position": "Member of the National Assembly for", "attendance": "54"}
+{"name": "John Zebedeo Opore", "dob": "8th January 1947", "email": "zjopore@yahoo.com", "cell": "0726960641", "area": "Bonchari", "position": "Member of the National Assembly for", "attendance": "23"}
+{"name": "Gideon Ochanda Ogolla", "dob": "", "email": "ochandago@gmail.com ", "cell": "0735990002", "area": "Bondo", "position": "Member of the National Assembly for", "attendance": "234"}
+{"name": "Ben George Orori Momanyi", "dob": "6th November 1972", "email": "", "cell": "0722202744", "area": "Borabu", "position": "Member of the National Assembly for", "attendance": "35"}
+{"name": "Ababu Namwamba", "dob": "23rd December 1975", "email": "namwambaa@gmail.com ", "cell": "0728166916", "area": "Budalangi", "position": "Member of the National Assembly for", "attendance": "1806"}
+{"name": "Bonface Okhiya Otsiula", "dob": "20th October 1968", "email": "bonnyotsiula@yahoo.com ", "cell": "0727808252", "area": "Bumula", "position": "Member of the National Assembly for", "attendance": "36"}
+{"name": "Dr. Reginalda Nakhumicha Wanyonyi", "dob": "", "email": "", "cell": "", "area": "Bungoma", "position": "Member of the National Assembly for", "attendance": "38"}
+{"name": "Ali Wario", "dob": "5th May 1970", "email": "warioali@yahoo.com ", "cell": "0725206089", "area": "Bura", "position": "Member of the National Assembly for", "attendance": "263"}
+{"name": "Leonard Kipkosgei Sang", "dob": "26th November 1974", "email": "0722958008", "cell": "", "area": "Bureti", "position": "Member of the National Assembly for", "attendance": "169"}
+{"name": "Florence Mwikali Mutua", "dob": "", "email": "", "cell": "", "area": "Busia", "position": "Member of the National Assembly for", "attendance": "78"}
+{"name": "Andrew Toboso Anyanga", "dob": "", "email": "toboso2030@gmail.com ", "cell": "0722908884", "area": "Butere", "position": "Member of the National Assembly for", "attendance": "55"}
+{"name": "Michael Aringo Onyura", "dob": "", "email": "", "cell": "", "area": "Butula", "position": "Member of the National Assembly for", "attendance": "325"}
+{"name": "Boniface Gatobu Kinoti", "dob": "1987", "email": "kinotigatobu@yahoo.com ", "cell": "0713375494", "area": "Buuri", "position": "Member of the National Assembly for", "attendance": "146"}
+{"name": "Gideon Mwiti Irea", "dob": "6th December 1960", "email": "mwitiirea@gmail.com", "cell": "0714862000", "area": "Central Imenti", "position": "Member of the National Assembly for", "attendance": "75"}
+{"name": "Omar Mwinyi Shimbwa", "dob": "1st August 1958", "email": "info@royalcircleagencies.com ", "cell": "0722230416", "area": "Changamwe", "position": "Member of the National Assembly for", "attendance": "156"}
+{"name": "Paul Kipchirchir Bii", "dob": "23rd January 1961", "email": "", "cell": "0724836158", "area": "Chepalungu", "position": "Member of the National Assembly for", "attendance": "26"}
+{"name": "Wesley Kipchumba Korir", "dob": "15th October 1982", "email": "wesley@kenyakidsfoundation.org ", "cell": "0724696954", "area": "Cherangany", "position": "Member of the National Assembly for", "attendance": "221"}
+{"name": "Elijah Lagat", "dob": "19th June 1966", "email": "emgwen@parliament.go.ke", "cell": "2848486 Ext. 32846", "area": "Chesumei", "position": "Member of the National Assembly for", "attendance": "187"}
+{"name": "Onesmus Muthomi Njuki", "dob": "", "email": "njuki.m@gea.co.ke ", "cell": "0733305929", "area": "Chuka/Igambang'ombe", "position": "Member of the National Assembly for", "attendance": "448"}
+{"name": "Dr. Mohamed Dahir Duale", "dob": "13th July 1962", "email": "mohamedduale@yahoo.com ", "cell": "0722 780 309", "area": "Dadaab", "position": "Member of the National Assembly for", "attendance": "43"}
+{"name": "Paul Arati Simba", "dob": "28th November 1981", "email": "siara103@yahoo.com ", "cell": "0722255143", "area": "Dagoretti North", "position": "Member of the National Assembly for", "attendance": "254"}
+{"name": "Dennis Kariuki Waweru", "dob": "30th June 1970", "email": "dennis@fib.co.ke ", "cell": "0722522769", "area": "Dagoretti South", "position": "Member of the National Assembly for", "attendance": "140"}
+{"name": "Moses Lessonet", "dob": "5th October 1968", "email": "mlessonet@gmail.com", "cell": "0722619114", "area": "Eldama Ravine", "position": "Member of the National Assembly for", "attendance": "734"}
+{"name": "Adan Keynan", "dob": "10th October 1968", "email": "wajirwest@parliament.go.ke", "cell": "0722301930", "area": "Eldas", "position": "Member of the National Assembly for", "attendance": "1766"}
+{"name": "Susan Kipketer Chebet", "dob": "", "email": "susan_chebet@yahoo.co.uk", "cell": "", "area": "Elgeyo-Marakwet", "position": "Member of the National Assembly for", "attendance": "74"}
+{"name": "John Ndirangu Kariuki", "dob": "1st May 1962", "email": "", "cell": "0726715921", "area": "Embakasi Central", "position": "Member of the National Assembly for", "attendance": "42"}
+{"name": "John Ogutu Omondi", "dob": "", "email": "jomondy@hotmail.com ", "cell": "0722722277", "area": "Embakasi East", "position": "Member of the National Assembly for", "attendance": "7"}
+{"name": "James Mwangi Gakuya", "dob": "24th December 1967", "email": "mainkam@wananchi.com ", "cell": "0722642490", "area": "Embakasi North", "position": "Member of the National Assembly for", "attendance": "548"}
+{"name": "Irshadali Mohomed Sumra", "dob": "9th December 1962", "email": "lionsumra@yahoo.com", "cell": "0722513663", "area": "Embakasi South", "position": "Member of the National Assembly for", "attendance": "76"}
+{"name": "George Theuri", "dob": "10th May 1978", "email": "george_theuri@yahoo.com", "cell": "0722433152", "area": "Embakasi West", "position": "Member of the National Assembly for", "attendance": "32"}
+{"name": "Rose Rwamba Mitaru", "dob": "15th June 1954", "email": "rmail@gmail.com\n", "cell": "0722736420\r\n", "area": "Embu", "position": "Member of the National Assembly for", "attendance": "56"}
+{"name": "Alexander Kimutai Kigen Kosgey Kosgey", "dob": "", "email": "", "cell": "", "area": "Emgwen", "position": "Member of the National Assembly for", "attendance": 0}
+{"name": "Wilber Ottichilo Khasilwa", "dob": "23rd September 1952", "email": "wkottichilo@yahoo.com", "cell": "+254 727 584 791 ", "area": "Emuhaya", "position": "Member of the National Assembly for", "attendance": "1228"}
+{"name": "Johana Ngeno Kipyegon", "dob": "12th December 1972", "email": "johnngeno@yahoo.com ", "cell": "0713426048", "area": "Emurua Dikirr", "position": "Member of the National Assembly for", "attendance": "504"}
+{"name": "Robert Pukose", "dob": "3rd January 1972", "email": "pukose@yahoo.com ", "cell": "0722247503", "area": "Endebess", "position": "Member of the National Assembly for", "attendance": "955"}
+{"name": "Elias Bare Shill", "dob": "", "email": "", "cell": "", "area": "Fafi", "position": "Member of the National Assembly for", "attendance": "270"}
+{"name": "Dr. Paul Otuoma", "dob": "15th September 1966", "email": "funyula@government.go.ke", "cell": "020 2713469", "area": "Funyula", "position": "Member of the National Assembly for", "attendance": "386"}
+{"name": "Hassan Abdi Dukicha", "dob": "", "email": "hassandukicha@gmail.com ", "cell": "0713048267", "area": "Galole", "position": "Member of the National Assembly for", "attendance": "87"}
+{"name": "Peter Safari Shehe", "dob": "15th December 1955", "email": "petershehe@yahoo.com", "cell": "0704077781", "area": "Ganze", "position": "Member of the National Assembly for", "attendance": "30"}
+{"name": "Shukran Hussein Gure", "dob": "6th July 1978", "email": "shukrangure@gmail.com\n", "cell": "0722164895\r\n", "area": "Garissa", "position": "Member of the National Assembly for", "attendance": "74"}
+{"name": "Aden Bare Duale", "dob": "15th June 1967", "email": "adendualle@gmail.com ", "cell": "0722759866", "area": "Garissa Township", "position": "Member of the National Assembly for", "attendance": "8056"}
+{"name": "Ibrahim Ahmed Sane", "dob": "23rd June 1974", "email": "sane114@hotmail.com", "cell": "0721422604", "area": "Garsen", "position": "Member of the National Assembly for", "attendance": "39"}
+{"name": "Humphrey Kimani Njuguna", "dob": "", "email": "hknjuguna@yahoo.com ", "cell": "0722740188", "area": "Gatanga", "position": "Member of the National Assembly for", "attendance": "156"}
+{"name": "Francis Kigo Njenga", "dob": "", "email": "info@kigonjenga.co.ke ", "cell": "0737100625", "area": "Gatundu North", "position": "Member of the National Assembly for", "attendance": "244"}
+{"name": "Moses Kuria", "dob": "", "email": "", "cell": "", "area": "Gatundu South", "position": "Member of the National Assembly for", "attendance": "21"}
+{"name": "Washington Jakoyo Midiwo", "dob": "31st July 1966", "email": "midiwoj@gmail.com", "cell": "0721504040", "area": "Gem", "position": "Member of the National Assembly for", "attendance": "3186"}
+{"name": "Ejidius Njogu Barua", "dob": "", "email": "njogu.barua@gmail.com ", "cell": "0722717183", "area": "Gichugu", "position": "Member of the National Assembly for", "attendance": "138"}
+{"name": "Samuel Mathenge Ndiritu", "dob": "", "email": "mndiritu@africaonline.co.ke ", "cell": "0722994762", "area": "Gilgil", "position": "Member of the National Assembly for", "attendance": "89"}
+{"name": "Peter Njoroge Baiya", "dob": "1950", "email": "Githunguri@parliament.go.ke", "cell": "0722248394", "area": "Githunguri", "position": "Member of the National Assembly for", "attendance": "1245"}
+{"name": "Charles Gumini Gimose", "dob": "27th May 1957", "email": "cggimose@yahoo.com ", "cell": "0707323871", "area": "Hamisi", "position": "Member of the National Assembly for", "attendance": "24"}
+{"name": "Gladys Wanga", "dob": "", "email": "", "cell": "", "area": "Homa Bay", "position": "Member of the National Assembly for", "attendance": "536"}
+{"name": "George Peter Opondo Kaluma", "dob": "", "email": "gpdkaluma@yahoo.com", "cell": "0722140412", "area": "Homa Bay Town", "position": "Member of the National Assembly for", "attendance": "813"}
+{"name": "Cyprian Kubai Iringo", "dob": "", "email": "kiringokubai@yahoo.com ", "cell": "0722352517", "area": "Igembe Central", "position": "Member of the National Assembly for", "attendance": "534"}
+{"name": "Joseph M'eruaki M'uthari", "dob": "", "email": "josephmeruaki@yahoo.com ", "cell": "0735196588", "area": "Igembe North", "position": "Member of the National Assembly for", "attendance": "502"}
+{"name": "Franklin Mithika Linturi", "dob": "1969", "email": "igembesouth@parliament.go.ke", "cell": "0722218000", "area": "Igembe South", "position": "Member of the National Assembly for", "attendance": "608"}
+{"name": "Ibrahim Ahmed Abass", "dob": "", "email": "abassahmed46@yahoo.com ", "cell": "0722669704", "area": "Ijara", "position": "Member of the National Assembly for", "attendance": "11"}
+{"name": "Benard Masaka Shinali", "dob": "", "email": "flexcolimited@gmail.com ", "cell": "0722702102", "area": "Ikolomani", "position": "Member of the National Assembly for", "attendance": "48"}
+{"name": "Tiyah Galgalo Ali", "dob": "27th December 1966", "email": "", "cell": "", "area": "Isiolo", "position": "Member of the National Assembly for", "attendance": "233"}
+{"name": "Joseph Samal Lomwa", "dob": "", "email": "premap07@yahoo.com ", "cell": "0733973821", "area": "Isiolo North", "position": "Member of the National Assembly for", "attendance": "35"}
+{"name": "Abdullahi Jaldesa Banticha", "dob": "12th August 1978", "email": "", "cell": "", "area": "Isiolo South", "position": "Member of the National Assembly for", "attendance": "3"}
+{"name": "Bady Twalib Bady", "dob": "", "email": "badibadi94@yahoo.com ", "cell": "0722346475", "area": "Jomvu", "position": "Member of the National Assembly for", "attendance": "59"}
+{"name": "Francis Munyua Waititu", "dob": "", "email": "fmunyua2013@gmail.com ", "cell": "0722660406", "area": "Juja", "position": "Member of the National Assembly for", "attendance": "131"}
+{"name": "Silvance Osele Onyango", "dob": "1987", "email": "silvancetein@yahoo.com ", "cell": "0722388227", "area": "Kabondo Kasipul", "position": "Member of the National Assembly for", "attendance": "72"}
+{"name": "James Lusweti Mukwe", "dob": "", "email": "", "cell": "0721357761", "area": "Kabuchai", "position": "Member of the National Assembly for", "attendance": "39"}
+{"name": "Mark Lomunokol", "dob": "", "email": "mark.muno@yahoo.com ", "cell": "sandavids@yahoo.co.uk ", "area": "Kacheliba", "position": "Member of the National Assembly for", "attendance": "28"}
+{"name": "Richard Makenga Katemi", "dob": "", "email": "richardmakenga@yahoo.com ", "cell": "0722525327", "area": "Kaiti", "position": "Member of the National Assembly for", "attendance": "209"}
+{"name": "Elijah Memusi Kanchory", "dob": "", "email": "", "cell": "", "area": "Kajiado Central", "position": "Member of the National Assembly for", "attendance": "38"}
+{"name": "Mary Yiane Seneta", "dob": "", "email": "", "cell": "", "area": "Kajiado", "position": "Member of the National Assembly for", "attendance": "81"}
+{"name": "Peris Pesi Tobiko", "dob": "16th November 1968", "email": "tobppp68@yahoo.com ", "cell": "0720292150", "area": "Kajiado East", "position": "Member of the National Assembly for", "attendance": "130"}
+{"name": "Joseph Wathigo Manje", "dob": "", "email": "0721450275", "cell": "", "area": "Kajiado North", "position": "Member of the National Assembly for", "attendance": "184"}
+{"name": "Judah ole Metito", "dob": "12th March 1973", "email": "kmetito49@gmail.com ", "cell": "P. O. Box 191 Loitokitok", "area": "Kajiado South", "position": "Member of the National Assembly for", "attendance": "1451"}
+{"name": "Moses Somoine ole Sakuda", "dob": "", "email": "", "cell": "", "area": "Kajiado West", "position": "Member of the National Assembly for", "attendance": "163"}
+{"name": "Rachel Ameso Amolo", "dob": "", "email": "", "cell": "", "area": "Kakamega", "position": "Member of the National Assembly for", "attendance": "96"}
+{"name": "Mwinga Gunga Chea", "dob": "", "email": "gungaadvocate@yahoo.com ", "cell": "0735326138", "area": "Kaloleni", "position": "Member of the National Assembly for", "attendance": "205"}
+{"name": "Yusuf Hassan Abdi", "dob": "1958", "email": "Yusuf.hassan@ymail.com", "cell": "020 2848418", "area": "Kamukunji", "position": "Member of the National Assembly for", "attendance": "307"}
+{"name": "Alice Muthoni Wahome", "dob": "", "email": "muthoniwahome@yahoo.com ", "cell": "0722743172", "area": "Kandara", "position": "Member of the National Assembly for", "attendance": "268"}
+{"name": "Athanas Misiko Wafula Wamunyinyi", "dob": "1963", "email": "atta_misiko@yahoo.com", "cell": "0721389293", "area": "Kanduyi", "position": "Member of the National Assembly for", "attendance": "425"}
+{"name": "Tirus Nyingi Ngahu", "dob": "1965", "email": "ngahu@tnngahu.co.ke", "cell": "0722510818", "area": "Kangema", "position": "Member of the National Assembly for", "attendance": "1"}
+{"name": "Maweu Kyengo Katatha", "dob": "", "email": "", "cell": "0735417227", "area": "Kangundo", "position": "Member of the National Assembly for", "attendance": "31"}
+{"name": "Samuel Moroto", "dob": "1960", "email": "losumamoroto@yahoo.com ", "cell": "0722883454", "area": "Kapenguria", "position": "Member of the National Assembly for", "attendance": "126"}
+{"name": "Oscar Kipchumba Sudi", "dob": "", "email": "oscarsudi@yahoo.com ", "cell": "0722749473", "area": "Kapseret", "position": "Member of the National Assembly for", "attendance": 0}
+{"name": "Eng. James Rege", "dob": "21st July 1948", "email": "karachuonyo@parliament.go.ke", "cell": "0710607250", "area": "Karachuonyo", "position": "Member of the National Assembly for", "attendance": "893"}
+{"name": "John Njoroge Chege", "dob": "", "email": "", "cell": "0726715921", "area": "Kasarani", "position": "Member of the National Assembly for", "attendance": "35"}
+{"name": "Joseph Oyugi Magwanga", "dob": "1966", "email": "magwangaoyugi@yahoo.com", "cell": "0727866798", "area": "Kasipul", "position": "Member of the National Assembly for", "attendance": "179"}
+{"name": "Robert Mbui", "dob": "", "email": "mbui@mutungonischools.co.ke", "cell": "0722527333", "area": "Kathiani", "position": "Member of the National Assembly for", "attendance": "258"}
+{"name": "Dr. James Kipkosgei Murgor", "dob": "", "email": "jamesmurgor@yahoo.com", "cell": "0733703526", "area": "Keiyo North", "position": "Member of the National Assembly for", "attendance": "62"}
+{"name": "Jackson Kiplagat Kiptanui", "dob": "1970", "email": "keiyosouth@parliament.go.ke", "cell": "0722240244", "area": "Keiyo South", "position": "Member of the National Assembly for", "attendance": "403"}
+{"name": "Hellen Chelangat Chepkwony", "dob": "", "email": "", "cell": "", "area": "Kericho", "position": "Member of the National Assembly for", "attendance": "52"}
+{"name": "James Kimaru Bett", "dob": "", "email": "bettkim@yahoo.com ", "cell": "0722489572", "area": "Kesses", "position": "Member of the National Assembly for", "attendance": "141"}
+{"name": "Benjamin Andola Andayi", "dob": "August 1956", "email": "uncleandolo@yahoo.com ", "cell": "0724144566", "area": "Khwisero", "position": "Member of the National Assembly for", "attendance": "8"}
+{"name": "Paul Koinange", "dob": "", "email": "sosdetorg@yahoo.com ", "cell": "0711411793", "area": "Kiambaa", "position": "Member of the National Assembly for", "attendance": "18"}
+{"name": "Jude L. Kangethe Njomo", "dob": "1965", "email": "njomojude@gmail.com ", "cell": "0722516334", "area": "Kiambu", "position": "Member of the National Assembly for", "attendance": "197"}
+{"name": "Annah Nyokabi Gathecha", "dob": "", "email": "", "cell": "", "area": "Kiambu", "position": "Member of the National Assembly for", "attendance": "170"}
+{"name": "Kenneth Odhiambo Okoth", "dob": "", "email": "teamkenokoth@gmail.com ", "cell": "0706664585", "area": "Kibra", "position": "Member of the National Assembly for", "attendance": "533"}
+{"name": "Jessica N. Mbalu", "dob": "", "email": "jessykiko@yahoo.com ", "cell": "0722869530", "area": "Kibwezi East", "position": "Member of the National Assembly for", "attendance": "223"}
+{"name": "Dr. Patrick Mweu Musimba", "dob": "", "email": "patrick@musimba.co.ke ", "cell": "0722519776", "area": "Kibwezi West", "position": "Member of the National Assembly for", "attendance": "187"}
+{"name": "James Mathenge Kanini Kega", "dob": "", "email": "mathenge@poweroptionsltd.com ", "cell": "0710107939", "area": "Kieni", "position": "Member of the National Assembly for", "attendance": "54"}
+{"name": "Jamleck Irungu Kamau", "dob": "10th May 1965", "email": "kigumo@parliament.go.ke", "cell": "0722363857", "area": "Kigumo", "position": "Member of the National Assembly for", "attendance": "1018"}
+{"name": "Irungu Kang'ata", "dob": "", "email": "0722910198", "cell": "irungukangata@yahoo.com ", "area": "Kiharu", "position": "Member of the National Assembly for", "attendance": "562"}
+{"name": "Anthony Kimani Ichung'Wah", "dob": "", "email": "kimani@safexafrica.com ", "cell": "0722994846", "area": "Kikuyu", "position": "Member of the National Assembly for", "attendance": "419"}
+{"name": "Gideon Sitelu Konchella", "dob": "1951", "email": "kilgoris@parliament.go.ke", "cell": "0722779765", "area": "Kilgoris", "position": "Member of the National Assembly for", "attendance": "572"}
+{"name": "Aisha Jumwa Katana", "dob": "", "email": "skcharo@yahoo.com\n", "cell": "0712055922\r\n", "area": "Kilifi", "position": "Member of the National Assembly for", "attendance": "31"}
+{"name": "Gideon Maitha", "dob": "18th September 1966", "email": "gmungaro66@gmail.com ", "cell": "0721600856", "area": "Kilifi North", "position": "Member of the National Assembly for", "attendance": "105"}
+{"name": "Salim Idd Mustafa", "dob": "", "email": "mustafa@chancerymedia.com ", "cell": "0733642035", "area": "Kilifi South", "position": "Member of the National Assembly for", "attendance": "19"}
+{"name": "Regina Nthambi Muia", "dob": "", "email": "profcats@wananchi.com ", "cell": "0704670637", "area": "Kilome", "position": "Member of the National Assembly for", "attendance": "116"}
+{"name": "Suleiman Murunga Kasuti", "dob": "", "email": "smurunga4@gmail.com ", "cell": "0734222576", "area": "Kimilili", "position": "Member of the National Assembly for", "attendance": "43"}
+{"name": "Chrisantus Wamalwa Wakhungu", "dob": "", "email": "chwamalwa@gmail.com ", "cell": "0721204990", "area": "Kiminini", "position": "Member of the National Assembly for", "attendance": "1552"}
+{"name": "Samuel Gonzi Rai", "dob": "", "email": "Kinango@parliament.go.ke", "cell": "0722355499", "area": "Kinango", "position": "Member of the National Assembly for", "attendance": "531"}
+{"name": "Stephen Kinyanjui Mburu Kk", "dob": "", "email": "www.mburukk@yahoo.com ", "cell": "0722779777", "area": "Kinangop", "position": "Member of the National Assembly for", "attendance": "45"}
+{"name": "Samuel Kamunye Gichigi", "dob": "", "email": "gichigik@yahoo.com ", "cell": "0722307077", "area": "Kipipiri", "position": "Member of the National Assembly for", "attendance": "690"}
+{"name": "Joseph Kirui Limo", "dob": "", "email": "josephlimo09@yahoo.com ", "cell": "0722651966", "area": "Kipkelion East", "position": "Member of the National Assembly for", "attendance": "420"}
+{"name": "Jackson Kipkorir Rop", "dob": "", "email": "ropjackson@yahoo.com ", "cell": "0721960580", "area": "Kipkelion West", "position": "Member of the National Assembly for", "attendance": "89"}
+{"name": "Eng Joseph Gachoki Gitari", "dob": "", "email": "ggitari@yahoo.com ", "cell": "0722527694", "area": "Kirinyaga Central", "position": "Member of the National Assembly for", "attendance": "287"}
+{"name": "Winnie Karimi Njuguna", "dob": "", "email": "winnienjuguna@gmail.com\n", "cell": "0722882474\r\n", "area": "Kirinyaga", "position": "Member of the National Assembly for", "attendance": "80"}
+{"name": "Rashid Juma Bedzimba", "dob": "", "email": "bedzimbar@yahoo.com ", "cell": "0733679612", "area": "Kisauni", "position": "Member of the National Assembly for", "attendance": "50"}
+{"name": "Mary Sally Keraa", "dob": "", "email": "", "cell": "", "area": "Kisii", "position": "Member of the National Assembly for", "attendance": "12"}
+{"name": "Ken Obura Mirenga", "dob": "", "email": "kenobura@yahoo.com ", "cell": "0720980847", "area": "Kisumu Central", "position": "Member of the National Assembly for", "attendance": "170"}
+{"name": "Rose Nyamunga", "dob": "", "email": "", "cell": "", "area": "Kisumu", "position": "Member of the National Assembly for", "attendance": "165"}
+{"name": "Shakeel Shabbir", "dob": "1953", "email": "shakeelshabbirahmed@gmail.com ", "cell": "0722801717", "area": "Kisumu East", "position": "Member of the National Assembly for", "attendance": "1437"}
+{"name": "John Olago Aluoch", "dob": "20th May 1956", "email": "kisumutownwest@parliament.go.ke", "cell": "0722758518", "area": "Kisumu West", "position": "Member of the National Assembly for", "attendance": "1786"}
+{"name": "Benson Makali Mulu", "dob": "", "email": "makalimulu@yahoo.com ", "cell": "0722809831", "area": "Kitui Central", "position": "Member of the National Assembly for", "attendance": "984"}
+{"name": "Nyiva Mwendwa", "dob": "", "email": "", "cell": "0722515198", "area": "Kitui", "position": "Member of the National Assembly for", "attendance": "28"}
+{"name": "Marcus Mutua Muluvi", "dob": "", "email": "", "cell": "0721556672", "area": "Kitui East", "position": "Member of the National Assembly for", "attendance": "152"}
+{"name": "Charles Nyamai", "dob": "6th December 1961", "email": "kituiwest@parliament.go.ke", "cell": "(020) 2848593 ext 32593", "area": "Kitui Rural", "position": "Member of the National Assembly for", "attendance": "348"}
+{"name": "Dr Rachael Kaki Nyamai", "dob": "", "email": "rkakinya@yahoo.com ", "cell": "0720451803", "area": "Kitui South", "position": "Member of the National Assembly for", "attendance": "1103"}
+{"name": "Francis Mwanzia Nyenze", "dob": "", "email": "frankmwa57@yahoo.com ", "cell": "0722859969", "area": "Kitui West", "position": "Member of the National Assembly for", "attendance": "828"}
+{"name": "Jimmy Angwenyi", "dob": "18th November 1945", "email": "jimmyangwenyi@yahoo.co.uk ", "cell": "0738170302", "area": "Kitutu Chache North", "position": "Member of the National Assembly for", "attendance": "858"}
+{"name": "Richard Onyonka", "dob": "1962", "email": "KitutuChache@parliament.go.ke", "cell": "0733441503", "area": "Kitutu Chache South", "position": "Member of the National Assembly for", "attendance": "700"}
+{"name": "Timothy Moseti . E Bosire", "dob": "", "email": "timothybosire62@gmail.com ", "cell": "0722286796", "area": "Kitutu Masaba", "position": "Member of the National Assembly for", "attendance": "68"}
+{"name": "Sammy Cheruiyot Koech", "dob": "", "email": "samkoech49@yahoo.com ", "cell": "0726398888", "area": "Konoin", "position": "Member of the National Assembly for", "attendance": "5"}
+{"name": "Moses Kipkemboi Cheboi", "dob": "4th January 1970", "email": "mkcheboi@yahoo.com ", "cell": "037 214948", "area": "Kuresoi North", "position": "Member of the National Assembly for", "attendance": "8293"}
+{"name": "Zakayo Kipkemoi Cheruiyot", "dob": "1954", "email": "kuresoiconstituency@yahoo.com", "cell": "0722865500", "area": "Kuresoi South", "position": "Member of the National Assembly for", "attendance": "21"}
+{"name": "Shadrack Roger Mwita Manga", "dob": "", "email": "shadrackmwita@yahoo.com ", "cell": "0727777430", "area": "Kuria East", "position": "Member of the National Assembly for", "attendance": "14"}
+{"name": "Mathias Nyamabe Robi", "dob": "", "email": "", "cell": "", "area": "Kuria West", "position": "Member of the National Assembly for", "attendance": "6"}
+{"name": "Zainab Kalekye Chidzuga", "dob": "", "email": "", "cell": "", "area": "Kwale", "position": "Member of the National Assembly for", "attendance": "162"}
+{"name": "Ferdinard Kevin Wanyonyi", "dob": "", "email": "wanyonyifk@yahoo.com ", "cell": "0734741306", "area": "Kwanza", "position": "Member of the National Assembly for", "attendance": "717"}
+{"name": "Shaaban Ali Isaack", "dob": "", "email": "", "cell": "", "area": "Lafey", "position": "Member of the National Assembly for", "attendance": "23"}
+{"name": "Mohamed Muktar Shidiye", "dob": "", "email": "", "cell": "", "area": "Lagdera", "position": "Member of the National Assembly for", "attendance": "149"}
+{"name": "Jane Agnes Wanjira Machira", "dob": "", "email": "jane.machira@gmail.com", "cell": "", "area": "Laikipia", "position": "Member of the National Assembly for", "attendance": "11"}
+{"name": "Anthony Mutahi Kimaru", "dob": "", "email": "anthonymutahikimaru@yahoo.com ", "cell": "0725053491", "area": "Laikipia East", "position": "Member of the National Assembly for", "attendance": "341"}
+{"name": "Mathew Lekidime Lempurkel", "dob": "", "email": "matteyo@yahoo.com ", "cell": "0726294223", "area": "Laikipia North", "position": "Member of the National Assembly for", "attendance": "51"}
+{"name": "Stephen Wachira Karani", "dob": "", "email": "", "cell": "", "area": "Laikipia West", "position": "Member of the National Assembly for", "attendance": "49"}
+{"name": "Joseph Lemasolai Lekuton", "dob": "", "email": "laisamis@parliament.go.ke", "cell": "0710332013", "area": "Laisamis", "position": "Member of the National Assembly for", "attendance": "571"}
+{"name": "Shakila Abdalla", "dob": "1961", "email": "", "cell": "0721382856", "area": "Lamu", "position": "Member of the National Assembly for", "attendance": "233"}
+{"name": "Shariff Athman Ali", "dob": "", "email": "sharifali541@yahoo.com", "cell": "0722255071", "area": "Lamu East", "position": "Member of the National Assembly for", "attendance": "67"}
+{"name": "Julius Ndegwa Kariuki", "dob": "", "email": "cllrkaris08@yahoo.com ", "cell": "0722813658", "area": "Lamu West", "position": "Member of the National Assembly for", "attendance": "57"}
+{"name": "Joash Odhiambo Olum", "dob": "", "email": "olumjoash@yahoo.com ", "cell": "0722513304", "area": "Langata", "position": "Member of the National Assembly for", "attendance": "3"}
+{"name": "Joseph Mburu Kahangara", "dob": "", "email": "kahangarajm@yahoo.com ", "cell": "0718555500", "area": "Lari", "position": "Member of the National Assembly for", "attendance": "35"}
+{"name": "Mwalimu Masoud Mwahima", "dob": "", "email": "mwalimumwahima@yahoo.com", "cell": "0712394139", "area": "Likoni", "position": "Member of the National Assembly for", "attendance": "16"}
+{"name": "Dr. Enoch Kibunguchy", "dob": "20th August 1953", "email": "kibunguchy@yahoo.com ", "cell": "0712219388", "area": "Likuyani", "position": "Member of the National Assembly for", "attendance": "594"}
+{"name": "Eng. John Kiragu Chege", "dob": "", "email": "engjk@yahoo.com ", "cell": "0733510756", "area": "Limuru", "position": "Member of the National Assembly for", "attendance": "125"}
+{"name": "Protus Ewesit Akujah", "dob": "", "email": "pakujah@yahoo.com ", "cell": "0787725313", "area": "Loima", "position": "Member of the National Assembly for", "attendance": "59"}
+{"name": "Christopher Omulele", "dob": "", "email": "omulelechris@yahoo.com ", "cell": "0721533615", "area": "Coalition for Reforms & Democracy", "position": "Coalition Member of", "attendance": "270"}
+{"name": "Ayub Savula Angatia", "dob": "", "email": "ayubsavula@gmail.com", "cell": "0722744643", "area": "Lugari", "position": "Member of the National Assembly for", "attendance": "176"}
+{"name": "Khatib Abdallah Mwashetani", "dob": "", "email": "khatibabdallah@yahoo.com ", "cell": "0723922222", "area": "Lunga Lunga", "position": "Member of the National Assembly for", "attendance": "65"}
+{"name": "Raphael Milikau Otaalo", "dob": "", "email": "rotaalo11@gmail.com", "cell": "0722761980", "area": "Lurambi", "position": "Member of the National Assembly for", "attendance": "36"}
+{"name": "Japhet M. Kareke Mbiuki", "dob": "1971", "email": "jmmbiuki@yahoo.com ", "cell": "0722764985", "area": "Maara", "position": "Member of the National Assembly for", "attendance": "544"}
+{"name": "Dr. Susan Mbinya Musyoka", "dob": "", "email": "", "cell": "", "area": "Machakos", "position": "Member of the National Assembly for", "attendance": "110"}
+{"name": "Victor Kioko Munyaka", "dob": "1964", "email": "drvmunyaka@gmail.com", "cell": "0722866988", "area": "Machakos Town", "position": "Member of the National Assembly for", "attendance": "234"}
+{"name": "Harrison Garama Kombe", "dob": "1956", "email": "hanko56@hotmail.com ", "cell": "0723032771", "area": "Magarini", "position": "Member of the National Assembly for", "attendance": "347"}
+{"name": "Benson Mutura Kangara", "dob": "", "email": "muturab@yahoo.com ", "cell": "0733264868", "area": "Makadara", "position": "Member of the National Assembly for", "attendance": "96"}
+{"name": "Daniel Kitonga Maanzo", "dob": "", "email": "maanzolawyer@gmail.com ", "cell": "0722529799", "area": "Makueni", "position": "Member of the National Assembly for", "attendance": "428"}
+{"name": "Rose Museo Mumo", "dob": "", "email": "", "cell": "", "area": "Makueni", "position": "Member of the National Assembly for", "attendance": "14"}
+{"name": "Moses Malulu Injendi", "dob": "", "email": "maluluinjendi@yahoo.com ", "cell": "0722638376", "area": "Malava", "position": "Member of the National Assembly for", "attendance": "181"}
+{"name": "Hon Willy Mtengo", "dob": "", "email": "", "cell": "", "area": "Orange Democratic Movement", "position": "Member of", "attendance": "22"}
+{"name": "Mahbub Fathia", "dob": "", "email": "", "cell": "", "area": "Mandera", "position": "Member of the National Assembly for", "attendance": "34"}
+{"name": "Abdulaziz Ali Farah", "dob": "", "email": "", "cell": "", "area": "Mandera East", "position": "Member of the National Assembly for", "attendance": "42"}
+{"name": "Adan Mohamed Nooru", "dob": "", "email": "", "cell": "0722526373", "area": "Mandera North", "position": "Member of the National Assembly for", "attendance": "495"}
+{"name": "Mohamed Adan Huka", "dob": "", "email": "mwalimu308@gmail.com ", "cell": "0737555788", "area": "Mandera South", "position": "Member of the National Assembly for", "attendance": "63"}
+{"name": "Eng Maalim Mohamud Mohamed", "dob": "4th July 1953", "email": "mahamud.mm@gmail.com ", "cell": "0721611207", "area": "Mandera West", "position": "Member of the National Assembly for", "attendance": "633"}
+{"name": "John Muchiri Nyaga", "dob": "", "email": "john.muchiri93@yahoo.com ", "cell": "0721686255", "area": "Manyatta", "position": "Member of the National Assembly for", "attendance": "9"}
+{"name": "Peter Kamande Mwangi", "dob": "", "email": "peterkamande@yahoo.com ", "cell": "0721212322", "area": "Maragwa", "position": "Member of the National Assembly for", "attendance": "97"}
+{"name": "David Kangongo Bowen", "dob": "", "email": "sandavids@yahoo.co.uk ", "cell": "0722314114", "area": "Marakwet East", "position": "Member of the National Assembly for", "attendance": "517"}
+{"name": "William Kipkemoi Kisang", "dob": "", "email": "wkisang@fourtell-eafrica.com ", "cell": "0722718482", "area": "Marakwet West", "position": "Member of the National Assembly for", "attendance": "111"}
+{"name": "Nasra Ibrahim Ibren", "dob": "", "email": "", "cell": "", "area": "Marsabit", "position": "Member of the National Assembly for", "attendance": "18"}
+{"name": "Benson Itwiku Mbai", "dob": "14th July 1959", "email": "bmbai@yahoo.com ", "cell": "0726911053", "area": "Masinga", "position": "Member of the National Assembly for", "attendance": "149"}
+{"name": "Geoffrey Makokha Odanga", "dob": "", "email": "geoffreyodanga@yahoo.com ", "cell": "0733567295", "area": "Matayos", "position": "Member of the National Assembly for", "attendance": "206"}
+{"name": "Steven Kariuki", "dob": "", "email": "mundiakenya@gmail.com", "cell": "0720407989", "area": "Mathare", "position": "Member of the National Assembly for", "attendance": "8"}
+{"name": "Captain Clement Muchiri Wambugu", "dob": "1956", "email": "clementwambugu@gmail.com ", "cell": "0722776606", "area": "Mathioya", "position": "Member of the National Assembly for", "attendance": "502"}
+{"name": "Peter Weru Kinyua", "dob": "", "email": "pwekinyua@gmail.com ", "cell": "0722648633", "area": "Mathira", "position": "Member of the National Assembly for", "attendance": "64"}
+{"name": "Hassan Mohamed Mwanyoha", "dob": "", "email": "", "cell": "0722951384", "area": "Matuga", "position": "Member of the National Assembly for", "attendance": "55"}
+{"name": "David Aoko Were", "dob": "2nd November 1959", "email": "Matungu@parliament.go.ke", "cell": "0722707548", "area": "Matungu", "position": "Member of the National Assembly for", "attendance": "701"}
+{"name": "Stephen Mutinda Mule", "dob": "", "email": "smmule2001@yahoo.com ", "cell": "0733710858", "area": "Matungulu", "position": "Member of the National Assembly for", "attendance": "210"}
+{"name": "Patrick Makau King'ola", "dob": "", "email": "p-makau@yahoo.com ", "cell": "0722788205", "area": "Mavoko", "position": "Member of the National Assembly for", "attendance": "180"}
+{"name": "Charles Muriuki Njagagua", "dob": "", "email": "njagagua@yahoo.com ", "cell": "0722523396", "area": "Mbeere North", "position": "Member of the National Assembly for", "attendance": "255"}
+{"name": "Rev. Mutava Musyimi", "dob": "5th June 1952", "email": "mutavamusyimi@gmail.com", "cell": "0733569774", "area": "Budget and Appropriations Committee", "position": "Chairman of", "attendance": "1296"}
+{"name": "Millie Grace Akoth Odhiambo Mabona", "dob": "1966", "email": "odhiambomillie@yahoo.co.uk", "cell": "0721207518", "area": "Mbita", "position": "Member of the National Assembly for", "attendance": "3678"}
+{"name": "Michael Manthi Kisoi", "dob": "", "email": "michaelkisoi@yahoo.com ", "cell": "0735291038", "area": "Mbooni", "position": "Member of the National Assembly for", "attendance": "164"}
+{"name": "Florence Kajuju", "dob": "29th September 1969", "email": "kajuflo@yaho.com\n", "cell": "0722302378\r\n", "area": "Meru", "position": "Member of the National Assembly for", "attendance": "624"}
+{"name": "Dennitah Ghati", "dob": "", "email": "", "cell": "", "area": "Migori", "position": "Member of the National Assembly for", "attendance": "195"}
+{"name": "Dr. Hellen Sambili", "dob": "1959", "email": "mogotio@parliament.go.ke", "cell": "0722697842", "area": "Mogotio", "position": "Member of the National Assembly for", "attendance": "297"}
+{"name": "Silas Kipkoech Tiren", "dob": "", "email": "skktiren@yahoo.com ", "cell": "0725792463", "area": "Moiben", "position": "Member of the National Assembly for", "attendance": "24"}
+{"name": "Jacob Waweru Macharia", "dob": "", "email": "info@jacobmacharia.com ", "cell": "0724851000", "area": "Molo", "position": "Member of the National Assembly for", "attendance": "177"}
+{"name": "Mishi Juma Khamisi", "dob": "", "email": "", "cell": "", "area": "Mombasa", "position": "Member of the National Assembly for", "attendance": "136"}
+{"name": "Stephen Kirwa Bitok", "dob": "", "email": "", "cell": "", "area": "Mosop", "position": "Member of the National Assembly for", "attendance": "47"}
+{"name": "Roba Duba Bonaya", "dob": "", "email": "robaduba@yahoo.com ", "cell": "0733771007", "area": "Moyale", "position": "Member of the National Assembly for", "attendance": "69"}
+{"name": "Suleiman Dori Ramadhani", "dob": "", "email": "dorfoundation@yahoo.com ", "cell": "0722830033", "area": "Msambweni", "position": "Member of the National Assembly for", "attendance": "14"}
+{"name": "John Bomet Serut", "dob": "", "email": "", "cell": "0733430096", "area": "Mt. Elgon", "position": "Member of the National Assembly for", "attendance": "257"}
+{"name": "James Onyango Oyoo", "dob": "", "email": "jokjamoko@gmail.com ", "cell": "0733543329", "area": "Muhoroni", "position": "Member of the National Assembly for", "attendance": "325"}
+{"name": "Kabando wa Kabando", "dob": "August 1967", "email": "wakabando@hotmail.com", "cell": "(020) 317219", "area": "Mukurweini", "position": "Member of the National Assembly for", "attendance": "735"}
+{"name": "Benjamin Jomo Washiali", "dob": "10th October 1961", "email": "mumias@parliament.go.ke", "cell": "+254 20 2221291 Ext. 32506", "area": "Mumias East", "position": "Member of the National Assembly for", "attendance": "707"}
+{"name": "Johnson Manya Naicca", "dob": "", "email": "j.m.naicca@gmail.com ", "cell": "0722266888", "area": "Mumias West", "position": "Member of the National Assembly for", "attendance": "34"}
+{"name": "Sabina Wanjiru Chege", "dob": "August 1978", "email": " info@sabinawanjiruchege.com", "cell": "0734624684", "area": "Murang'a", "position": "Member of the National Assembly for", "attendance": "697"}
+{"name": "Abdulswamad Sheriff Nassir", "dob": "", "email": "asnassir@radiorahma.co.ke ", "cell": "0737333109", "area": "Mvita", "position": "Member of the National Assembly for", "attendance": "376"}
+{"name": "Vincent Musyoka Musau", "dob": "", "email": "md@teknointernationalkenya.com ", "cell": "0725234097", "area": "Mwala", "position": "Member of the National Assembly for", "attendance": "90"}
+{"name": "Andrew Mwadime", "dob": "", "email": "achawia@yahoo.com ", "cell": "0722867598", "area": "Mwatate", "position": "Member of the National Assembly for", "attendance": "233"}
+{"name": "Peter Njuguna Gitau", "dob": "1965", "email": "mwea@parliament.go.ke", "cell": "", "area": "Mwea", "position": "Member of the National Assembly for", "attendance": "1718"}
+{"name": "Joe Musyimi Mutambu", "dob": "", "email": "Joemutambu@hotmail.com", "cell": "0722263326", "area": "Mwingi Central", "position": "Member of the National Assembly for", "attendance": "42"}
+{"name": "G.J. Munuve Mati", "dob": "", "email": "munuve@wananchi.com ", "cell": "0722513025", "area": "Mwingi North", "position": "Member of the National Assembly for", "attendance": "191"}
+{"name": "Bernard Munywoki Kitungi", "dob": "", "email": "benmunyoki@yahoo.com ", "cell": "0722852032", "area": "Mwingi West", "position": "Member of the National Assembly for", "attendance": "33"}
+{"name": "Rachel Wambui Shebesh", "dob": "1st July 1971", "email": "wshebesh@yahoo.com", "cell": "0722524004", "area": "Nairobi", "position": "Member of the National Assembly for", "attendance": "1289"}
+{"name": "John Karanja Kihagi", "dob": "", "email": "jkihagi@yahoo.com ", "cell": "0722866452", "area": "Naivasha", "position": "Member of the National Assembly for", "attendance": "111"}
+{"name": "Mary Njoki G Mbugua", "dob": "", "email": "", "cell": "", "area": "Nakuru", "position": "Member of the National Assembly for", "attendance": "23"}
+{"name": "David Gikaria", "dob": "", "email": "cllrtmlw@yahoo.com ", "cell": "0720203097", "area": "Nakuru Town East", "position": "Member of the National Assembly for", "attendance": "997"}
+{"name": "Samuel Arama", "dob": "", "email": "samsn@hotmail.com ", "cell": "0720101074", "area": "Nakuru Town West", "position": "Member of the National Assembly for", "attendance": "9"}
+{"name": "John Sakwa Bunyasi", "dob": "", "email": "sjbunyasi@hotmail.com ", "cell": "0722712245", "area": "Nambale", "position": "Member of the National Assembly for", "attendance": "384"}
+{"name": "Zipporah Jesang Kurgat Kering", "dob": "", "email": "", "cell": "", "area": "Nandi", "position": "Member of the National Assembly for", "attendance": "15"}
+{"name": "Alfred Kiptoo Keter", "dob": "", "email": "alfketer2000@yahoo.com ", "cell": "0723260922", "area": "Nandi Hills", "position": "Member of the National Assembly for", "attendance": "37"}
+{"name": "Roselinda Soipan Tuya", "dob": "", "email": "", "cell": "", "area": "Narok", "position": "Member of the National Assembly for", "attendance": "184"}
+{"name": "Lemanken Aramat", "dob": "", "email": "lemanken.aramat2@gmail.com ", "cell": "0733273219", "area": "Narok East", "position": "Member of the National Assembly for", "attendance": "7"}
+{"name": "Richard Moitalel ole Kenta", "dob": "", "email": "olekenta@gmail.com ", "cell": "0728233443", "area": "Narok North", "position": "Member of the National Assembly for", "attendance": "226"}
+{"name": "Korei Ole Lemein", "dob": "1971", "email": " koolemein@gmail.com", "cell": "0722239234", "area": "Narok South", "position": "Member of the National Assembly for", "attendance": "161"}
+{"name": "Patrick Keturet Ole Ntutu", "dob": "", "email": "panoi70@yahoo.com ", "cell": "0721500471", "area": "Narok West", "position": "Member of the National Assembly for", "attendance": "319"}
+{"name": "Emmanuel Wangwe", "dob": "", "email": "e.wangwe@yahoo.com ", "cell": "/0722494114", "area": "Navakholo", "position": "Member of the National Assembly for", "attendance": "218"}
+{"name": "Francis Waweru Nderitu", "dob": "", "email": "w.nderitufrancis@gmail.com ", "cell": "0722540531", "area": "Ndaragwa", "position": "Member of the National Assembly for", "attendance": "134"}
+{"name": "Augostinho Neto Oyugi", "dob": "1st January 1976", "email": "agostinhoon@gmail.com ", "cell": "0711613026", "area": "Ndhiwa", "position": "Member of the National Assembly for", "attendance": "608"}
+{"name": "Eng. Stephen Muriuki Ngare", "dob": "", "email": "sm.ngare@gmail.com ", "cell": "0722303643", "area": "Ndia", "position": "Member of the National Assembly for", "attendance": "355"}
+{"name": "Joseph Nganga Kiuna", "dob": "26th February 1965", "email": "molo@parliament.go.ke", "cell": "020-2848570", "area": "Njoro", "position": "Member of the National Assembly for", "attendance": "583"}
+{"name": "Francis Chachu Ganya", "dob": "1970", "email": "northhorr@parliament.go.ke", "cell": "0733892728", "area": "North Horr", "position": "Member of the National Assembly for", "attendance": "1312"}
+{"name": "Abdul Rahim Dawood", "dob": "", "email": "rahimdwd@yahoo.co.uk ", "cell": "0722513900", "area": "North Imenti", "position": "Member of the National Assembly for", "attendance": "353"}
+{"name": "Charles Mongare Geni", "dob": "", "email": "genicharles@yahoo.com ", "cell": "0713400200", "area": "North Mugirango", "position": "Member of the National Assembly for", "attendance": "31"}
+{"name": "Joshua Aduma Owuor", "dob": "", "email": "saadero@yahoo.com ", "cell": "0721395464", "area": "Nyakach", "position": "Member of the National Assembly for", "attendance": "3"}
+{"name": "Hezron Awiti Bollo", "dob": "", "email": "awiti@habo-group.com ", "cell": "0706000222", "area": "Nyali", "position": "Member of the National Assembly for", "attendance": "18"}
+{"name": "Alice Nyanchoka Chae", "dob": "", "email": "", "cell": "", "area": "Nyamira", "position": "Member of the National Assembly for", "attendance": "100"}
+{"name": "Wanjiku Muhia", "dob": "", "email": "wanjikumuhia.nyandaruacounty@gmail.com\n", "cell": "0725726821\r\n", "area": "Nyandarua", "position": "Member of the National Assembly for", "attendance": "207"}
+{"name": "Hon. Fredrick Otieno Outa", "dob": "12th December 1964", "email": "fredoutlt@yahoo.com ", "cell": "0722818983", "area": "Nyando", "position": "Member of the National Assembly for", "attendance": "281"}
+{"name": "Richard Nyagaka Tongi", "dob": "", "email": "", "cell": "", "area": "Nyaribari Chache", "position": "Member of the National Assembly for", "attendance": "205"}
+{"name": "Elijah Mosomi Moindi", "dob": "", "email": "emosomi@yahoo.com ", "cell": "0717479817", "area": "Nyaribari Masaba", "position": "Member of the National Assembly for", "attendance": "29"}
+{"name": "Peter Edick Omondi Anyanga", "dob": "", "email": "nyatike@parliament.go.ke", "cell": "0722936977", "area": "Nyatike", "position": "Member of the National Assembly for", "attendance": "259"}
+{"name": "Priscilla Nyokabi Kanyua", "dob": "1979", "email": "wakili.nyokabi@gmail.com", "cell": "0721881859", "area": "Nyeri", "position": "Member of the National Assembly for", "attendance": "964"}
+{"name": "Esther Murugi", "dob": "21st September 1953", "email": "esthermurugi@wananchi.com", "cell": "0722932794", "area": "Nyeri Town", "position": "Member of the National Assembly for", "attendance": "524"}
+{"name": "John Muriithi Waiganjo", "dob": "", "email": "waiganjomj@yahoo.com", "cell": "0722303779", "area": "Ol Joro Orok", "position": "Member of the National Assembly for", "attendance": "398"}
+{"name": "David Njuguna Kiaraho", "dob": "", "email": "info@archgridsystems.co.ke ", "cell": "0727508812", "area": "Ol Kalou", "position": "Member of the National Assembly for", "attendance": "27"}
+{"name": "Mary Wambui Munene", "dob": "", "email": "", "cell": "0721401401", "area": "Othaya", "position": "Member of the National Assembly for", "attendance": "119"}
+{"name": "Losiakou David Pkosing", "dob": "", "email": "losiak07@yahoo.com ", "cell": "0719671204", "area": "Pokot South", "position": "Member of the National Assembly for", "attendance": "108"}
+{"name": "William Kamoti Mwamkale", "dob": "", "email": "kamoti@africaonline.co.ke ", "cell": "0720783977", "area": "Rabai", "position": "Member of the National Assembly for", "attendance": "71"}
+{"name": "George Oner Ogalo", "dob": "13th May 1977", "email": " ogalooner@gmail.com ", "cell": "0707672146", "area": "Rangwe", "position": "Member of the National Assembly for", "attendance": "431"}
+{"name": "Eng. Nicholas Gumbo", "dob": "25th November 1965", "email": "consult@feradon.com ", "cell": "0722723304", "area": "Rarieda", "position": "Member of the National Assembly for", "attendance": "3100"}
+{"name": "Kipruto Moi", "dob": "", "email": "", "cell": "", "area": "Rongai", "position": "Member of the National Assembly for", "attendance": "59"}
+{"name": "Dalmas Otieno", "dob": "19th April 1945", "email": "rongo@parliament.go.ke", "cell": "+254 20 2227411", "area": "Rongo", "position": "Member of the National Assembly for", "attendance": "256"}
+{"name": "Isaac Waihenya Ndirangu", "dob": "1968", "email": "waihenyan@yahoo.com ", "cell": "0724078202", "area": "Roysambu", "position": "Member of the National Assembly for", "attendance": "26"}
+{"name": "Tom Joseph Kajwang'", "dob": "", "email": "tomkajwang@yahoo.com ", "cell": "0722821218", "area": "Ruaraka", "position": "Member of the National Assembly for", "attendance": "9065"}
+{"name": "Esther Nyambura Gathogo", "dob": "", "email": "esther.gathogo@yahoo.com ", "cell": "0722625097", "area": "Ruiru", "position": "Member of the National Assembly for", "attendance": "103"}
+{"name": "Cecily Mbarire", "dob": "26th December 1972", "email": "runyenjes@parliament.go.ke", "cell": "0722404086", "area": "Runyenjes", "position": "Member of the National Assembly for", "attendance": "437"}
+{"name": "Alfred Agoi Masadia", "dob": "", "email": "", "cell": "", "area": "Sabatia", "position": "Member of the National Assembly for", "attendance": "24"}
+{"name": "David Wafula Wekesa", "dob": "", "email": "dvdwafula@yahoo.com ", "cell": "0720678540", "area": "Saboti", "position": "Member of the National Assembly for", "attendance": "114"}
+{"name": "Col (Rtd) Ali Rasso Dido", "dob": "", "email": "dirasso61@yahoo.com ", "cell": "0722934348", "area": "Saku", "position": "Member of the National Assembly for", "attendance": "431"}
+{"name": "Maison Leshoomo", "dob": "1962", "email": "laikipiawest@parliament.go.ke", "cell": "0724958726", "area": "Samburu", "position": "Member of the National Assembly for", "attendance": "220"}
+{"name": "Raphael Lakalei Letimalo", "dob": "", "email": "letimalo@yahoo.com ", "cell": "0722972996", "area": "Samburu East", "position": "Member of the National Assembly for", "attendance": "944"}
+{"name": "Alois Musa Lentoimaga", "dob": "", "email": "aloislento@yahoo.com ", "cell": "0720225553", "area": "Samburu North", "position": "Member of the National Assembly for", "attendance": "402"}
+{"name": "Jonathan Lelelit Lati", "dob": "", "email": "", "cell": "", "area": "Samburu West", "position": "Member of the National Assembly for", "attendance": "514"}
+{"name": "Dr. James Nyikal", "dob": "22nd June 1951", "email": "jwnyikal@yahoo.com ", "cell": "0735481037", "area": "Seme", "position": "Member of the National Assembly for", "attendance": "1193"}
+{"name": "Lisamula Silverse Anami", "dob": "1st January 1955", "email": "allculture@yahoo.com ", "cell": "0722839615", "area": "Shinyalu", "position": "Member of the National Assembly for", "attendance": "349"}
+{"name": "Christine Oduor Ombaka", "dob": "", "email": "", "cell": "", "area": "Siaya", "position": "Member of the National Assembly for", "attendance": "274"}
+{"name": "Philip Lotiolo Ruto Rotino", "dob": "", "email": "pmoiben@yahoo.com ", "cell": "0706548568", "area": "Sigor", "position": "Member of the National Assembly for", "attendance": "153"}
+{"name": "Justice Kipsang Kemei", "dob": "", "email": "justice@sitwetconsultants.com ", "cell": "0729841401", "area": "Sigowet/Soin", "position": "Member of the National Assembly for", "attendance": "164"}
+{"name": "John Waluke Koyi", "dob": "", "email": "", "cell": "", "area": "Sirisia", "position": "Member of the National Assembly for", "attendance": "160"}
+{"name": "Dr. Joyce Cherono Laboso", "dob": "25th November 1960", "email": "sotik@parliament.go.ke", "cell": "0722-788771", "area": "National Assembly", "position": "Deputy Speaker of the National Assembly of", "attendance": "3808"}
+{"name": "Kathuri Murungi", "dob": "", "email": "kathurisouthimenti@gmail.com", "cell": "0721419949", "area": "South Imenti", "position": "Member of the National Assembly for", "attendance": "342"}
+{"name": "Manson Nyamweya", "dob": "1950", "email": "kema@kema.co.ke", "cell": "020 559114", "area": "South Mugirango", "position": "Member of the National Assembly for", "attendance": "796"}
+{"name": "Edwin Kipruto Barchilei", "dob": "", "email": "barchillei2013@yahoo.com ", "cell": "0710431744", "area": "Soy", "position": "Member of the National Assembly for", "attendance": "21"}
+{"name": "William Maina Kamanda", "dob": "", "email": "rahabkariuki@yahoo.com ", "cell": "0722629424", "area": "Starehe", "position": "Member of the National Assembly for", "attendance": "338"}
+{"name": "John Mbadi Ng'ong'o", "dob": "", "email": "johnmbadi@yamil.com ", "cell": "0714311688", "area": "Suba", "position": "Member of the National Assembly for", "attendance": "4384"}
+{"name": "Nelson Ributhi Gaichuhie", "dob": "1965", "email": "Subukia@parliament.go.ke", "cell": "722849069", "area": "Subukia", "position": "Member of the National Assembly for", "attendance": "633"}
+{"name": "Junet Sheikh Nuh", "dob": "", "email": "junet.mohamed@alfalah.co.ke ", "cell": "0722510046", "area": "Suna East", "position": "Member of the National Assembly for", "attendance": "423"}
+{"name": "Joseph Obiero Ndiege", "dob": "", "email": "", "cell": "0722278663", "area": "Suna West", "position": "Member of the National Assembly for", "attendance": "35"}
+{"name": "Joyce Wanjalah Lay", "dob": "", "email": "", "cell": "0720610210", "area": "Taita Taveta", "position": "Member of the National Assembly for", "attendance": "160"}
+{"name": "Halima Ware Duri", "dob": "", "email": "", "cell": "", "area": "Tana River", "position": "Member of the National Assembly for", "attendance": "59"}
+{"name": "Mohamed Ibrahim Elmi", "dob": "", "email": "wajireast@parliament.go.ke", "cell": "0714535747", "area": "Tarbaj", "position": "Member of the National Assembly for", "attendance": "215"}
+{"name": "Dr. Naomi Shaban", "dob": "9th September 1963", "email": "namsi-ns@yahoo.com ", "cell": "0202215245", "area": "Taveta", "position": "Member of the National Assembly for", "attendance": "1144"}
+{"name": "Arthur Papa Odera", "dob": "", "email": "papaodera@yahoo.com ", "cell": "0721830401", "area": "Teso North", "position": "Member of the National Assembly for", "attendance": "23"}
+{"name": "Mary Emaase Otuch", "dob": "", "email": "", "cell": "", "area": "Teso South", "position": "Member of the National Assembly for", "attendance": "235"}
+{"name": "James Ndungu Gethenji", "dob": "", "email": "ndungu.gethenji@gmail.com ", "cell": "0722595999", "area": "Tetu", "position": "Member of the National Assembly for", "attendance": "344"}
+{"name": "Alex Muthengi Mburi Mwiru", "dob": "23rd September 1967", "email": "mwirualex@yahoo.com ", "cell": "0737576003", "area": "Tharaka", "position": "Member of the National Assembly for", "attendance": "1027"}
+{"name": "Beatrice Nkatha Nyaga", "dob": "", "email": "berotica2003yahoo.com\n", "cell": "0728398583\r\n", "area": "Tharaka-Nithi", "position": "Member of the National Assembly for", "attendance": "65"}
+{"name": "Alice Wambui Ng'ang'a", "dob": "", "email": "alicemhesh@gmail.com ", "cell": "0722730090", "area": "Thika Town", "position": "Member of the National Assembly for", "attendance": "355"}
+{"name": "Asman Kamama", "dob": "8th August 1965", "email": "kamama.asman@yahoo.com ", "cell": "0729816066", "area": "Tiaty", "position": "Member of the National Assembly for", "attendance": "1907"}
+{"name": "Lawrence Mpuru Aburi", "dob": "", "email": "mpuruaburi@yahoo.com ", "cell": "0722741731", "area": "Tigania East", "position": "Member of the National Assembly for", "attendance": "93"}
+{"name": "David Karithi", "dob": "", "email": "dkarithi2002@yahoo.com ", "cell": "0722712877", "area": "Tigania West", "position": "Member of the National Assembly for", "attendance": "34"}
+{"name": "Julius Kibiwott Melly", "dob": "", "email": "kibiwottmelli@gmail.com ", "cell": "0727234136", "area": "Tinderet", "position": "Member of the National Assembly for", "attendance": "281"}
+{"name": "Dr. David Eseli Simiyu", "dob": "17th October 1958", "email": "eseledr@yahoo.com ", "cell": "020 2221291 Ext. 32477", "area": "Tongaren", "position": "Member of the National Assembly for", "attendance": "1112"}
+{"name": "Janet Nangabo Wanyama", "dob": "", "email": "", "cell": "", "area": "Trans-Nzoia", "position": "Member of the National Assembly for", "attendance": "77"}
+{"name": "Elisha Kipkorir Busienei", "dob": "", "email": "busheli2002@yahoo.com ", "cell": "0722941409", "area": "Turbo", "position": "Member of the National Assembly for", "attendance": "33"}
+{"name": "John Lodepe Nakara", "dob": "", "email": "johnnakara@yahoo.com ", "cell": "0735770174", "area": "Turkana Central", "position": "Member of the National Assembly for", "attendance": "275"}
+{"name": "Joyce Akai Emanikor", "dob": "", "email": "", "cell": "0722101169", "area": "Turkana", "position": "Member of the National Assembly for", "attendance": "277"}
+{"name": "Nicholas Ngikor Nixon", "dob": "", "email": "ninaningikor@yahoo.com ", "cell": "0710815370", "area": "Turkana East", "position": "Member of the National Assembly for", "attendance": "107"}
+{"name": "Chrisropher Doye Nakuleu", "dob": "", "email": "chrisduen@ymail.com ", "cell": "0713516601", "area": "Turkana North", "position": "Member of the National Assembly for", "attendance": "132"}
+{"name": "James Lomenen Ekomwa", "dob": "", "email": "elomenen@yahoo.com ", "cell": "0726257597", "area": "Turkana South", "position": "Member of the National Assembly for", "attendance": "306"}
+{"name": "Daniel Epuyo Nanok", "dob": "", "email": "epuyonanok@yahoo.com ", "cell": "0721630171", "area": "Turkana West", "position": "Member of the National Assembly for", "attendance": "67"}
+{"name": "Eusilah Jepkosgei Ngeny", "dob": "", "email": "ngenykip@yahoo.com", "cell": "", "area": "Uasin Gishu", "position": "Member of the National Assembly for", "attendance": "17"}
+{"name": "David Ouma Ochieng'", "dob": "", "email": "ochiengoo@yahoo.com ", "cell": "0722450106", "area": "Ugenya", "position": "Member of the National Assembly for", "attendance": "1639"}
+{"name": "James Opiyo Wandayi", "dob": "", "email": "jwandayi@gmail.com ", "cell": "0720678051", "area": "Ugunja", "position": "Member of the National Assembly for", "attendance": "882"}
+{"name": "John Owuor Onyango Kobado", "dob": "", "email": "jkobado@yahoo.com ", "cell": "0724830007", "area": "Uriri", "position": "Member of the National Assembly for", "attendance": "167"}
+{"name": "Yusuf Kifuma Chanzu", "dob": "1950", "email": "ykchanzu@yaahoo.com ", "cell": "0722639377", "area": "Vihiga", "position": "Member of the National Assembly for", "attendance": "1675"}
+{"name": "Dorcas Luvalitsa Kedogo", "dob": "", "email": "", "cell": "", "area": "Vihiga", "position": "Member of the National Assembly for", "attendance": "74"}
+{"name": "Jones Mwagogo Mlolwa", "dob": "", "email": "mlolwajones@yahoo.com ", "cell": "0736371609", "area": "Voi", "position": "Member of the National Assembly for", "attendance": "52"}
+{"name": "Fatuma Ibrahim Ali", "dob": "", "email": "", "cell": "", "area": "Wajir", "position": "Member of the National Assembly for", "attendance": "224"}
+{"name": "Abass Sheikh Mohamed", "dob": "", "email": "", "cell": "", "area": "Wajir East", "position": "Member of the National Assembly for", "attendance": "166"}
+{"name": "Ibrahim Abdi Saney", "dob": "", "email": "saney.abdi@gmail.com", "cell": "0731373137", "area": "Wajir North", "position": "Member of the National Assembly for", "attendance": "127"}
+{"name": "Diriye Abdullahi Mohamed", "dob": "", "email": "abdullahidiriye848@hotmail. com      ", "cell": "0723628649", "area": "Wajir South", "position": "Member of the National Assembly for", "attendance": "203"}
+{"name": "Abdikadir Ore Ahmed", "dob": "", "email": "abdikadirore@yahoo.com ", "cell": "0720303034", "area": "Wajir West", "position": "Member of the National Assembly for", "attendance": "54"}
+{"name": "Bernard Alfred Wekesa Sambu", "dob": "1944", "email": "info@northjubilee.co.ke ", "cell": "0722531564", "area": "Webuye East", "position": "Member of the National Assembly for", "attendance": "11"}
+{"name": "Daniel Wanyama Sitati", "dob": "", "email": "dan.sitati@yahoo.com ", "cell": "0723432321", "area": "Webuye West", "position": "Member of the National Assembly for", "attendance": "23"}
+{"name": "Timothy Wanyonyi Wetangula", "dob": "", "email": "info@timwanyonyi.com", "cell": "+254 20 2324781", "area": "Westlands", "position": "Member of the National Assembly for", "attendance": "235"}
+{"name": "Dr. James Gesami", "dob": "30th July 1953", "email": "westmugirango@parliament.go.ke", "cell": "0788286309", "area": "West Mugirango", "position": "Member of the National Assembly for", "attendance": "428"}
+{"name": "Regina Nyeris Changorok", "dob": "", "email": "", "cell": "", "area": "West Pokot", "position": "Member of the National Assembly for", "attendance": "18"}
+{"name": "Thomas Mwadeghu", "dob": "1953", "email": "Wundanyi@parliament.go.ke", "cell": "0724-285347", "area": "Wundanyi", "position": "Member of the National Assembly for", "attendance": "490"}
+{"name": "Francis Mwangangi Kilonzo", "dob": "", "email": "", "cell": "0721349028", "area": "Yatta", "position": "Member of the National Assembly for", "attendance": "128"}
+{"name": "Bishop Robert Mutemi Mutua", "dob": "", "email": "bspmutemi@yahoo.com ", "cell": "0710733210", "area": "nominated", "position": "Member of the National Assembly", "attendance": "164"}
+{"name": "Sunjeev Kour Birdi", "dob": "", "email": "soniabirdikenya@gmail.com ", "cell": "0734432482", "area": "nominated", "position": "Member of the National Assembly", "attendance": "346"}
+{"name": "Hassan Aden Osman", "dob": "", "email": "bokola5@yahoo.com ", "cell": "0722775756", "area": "nominated", "position": "Member of the National Assembly", "attendance": "7"}
+{"name": "Abdi Noor Mohammed Ali", "dob": "", "email": "", "cell": "", "area": "nominated", "position": "Member of the National Assembly", "attendance": "52"}
+{"name": "Dr. Oburu Odinga", "dob": "15th October 1943", "email": "oburuodinga@yahoo.com", "cell": "0733 818517", "area": "nominated", "position": "Member of the National Assembly", "attendance": "1214"}
+{"name": "Patrick Wangamati", "dob": "", "email": "kecpatpress@yahoo.com ", "cell": "0722624770", "area": "nominated", "position": "Member of the National Assembly", "attendance": "157"}
+{"name": "Janet Marania Teiyaa", "dob": "", "email": "", "cell": "", "area": "nominated", "position": "Member of the National Assembly", "attendance": "13"}
+{"name": "Isaac Maigua Mwaura", "dob": "1982", "email": "mwaura.isa@gmail.com ", "cell": "0733864949", "area": "nominated", "position": "Member of the National Assembly", "attendance": "643"}
+{"name": "Zulekha Juma Hassan", "dob": "10th August 1979", "email": "akinatanga@yahoo.co.uk", "cell": "0705403237", "area": "nominated", "position": "Member of the National Assembly", "attendance": "207"}
+{"name": "Sara Paulata Korere", "dob": "", "email": "", "cell": "", "area": "nominated", "position": "Member of the National Assembly", "attendance": "119"}
+{"name": "Johnson Arthur Sakaja", "dob": "1985", "email": "jsakaja@gmail.com ", "cell": "0721326070", "area": "nominated", "position": "Member of the National Assembly", "attendance": "825"}
+{"name": "Amina Abdalla", "dob": "15th October 1969", "email": "amina@leadershipkenya.com", "cell": "0736744801 ", "area": "nominated", "position": "Member of the National Assembly", "attendance": "2284"}
